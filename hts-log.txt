@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Apr 2023 11:50:45 at https://www.avicindia.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.avicindia.com/ -O1 "D:\avic india" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:50:46	Warning: 	Note: due to https://www.avicindia.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+11:51:48	Warning: 	Note: due to www.avicindia.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+11:55:40	Warning: 	Retry after error -4 (Connect Error) at link https://sivaar.com/avicindia/wp-content/uploads/2021/05/footer.jpg (from https://www.avicindia.com/wp-content/uploads/themify-css/concate/2853873207/themify-concate-2832922927.min.css)
+11:56:12	Warning: 	Moved Permanently for www.avicindia.com/?p=16
+11:56:12	Warning: 	File has moved from www.avicindia.com/?p=16 to http://www.avicindia.com/about/
+11:56:13	Warning: 	Moved Permanently for www.avicindia.com/?p=567
+11:56:13	Warning: 	File has moved from www.avicindia.com/?p=567 to http://www.avicindia.com/directors-message/
+11:56:14	Warning: 	Moved Permanently for www.avicindia.com/?p=51
+11:56:14	Warning: 	File has moved from www.avicindia.com/?p=51 to http://www.avicindia.com/invest-in-the-company/
+11:56:15	Warning: 	Moved Permanently for www.avicindia.com/?p=20
+11:56:15	Warning: 	File has moved from www.avicindia.com/?p=20 to http://www.avicindia.com/services/
+11:56:15	Warning: 	Moved Permanently for www.avicindia.com/?p=49
+11:56:15	Warning: 	File has moved from www.avicindia.com/?p=49 to http://www.avicindia.com/newsmedia/
+11:56:15	Warning: 	Retry after error -4 (Connect Error) at link https://sivaar.com/avicindia/wp-content/uploads/2021/05/background-1.jpg (from www.avicindia.com/newsmedia/)
+11:56:37	Warning: 	Moved Permanently for www.avicindia.com/?p=214
+11:56:37	Warning: 	File has moved from www.avicindia.com/?p=214 to http://www.avicindia.com/blog/
+11:56:56	Warning: 	Moved Permanently for www.avicindia.com/?p=18
+11:56:56	Warning: 	File has moved from www.avicindia.com/?p=18 to http://www.avicindia.com/contact/
+11:56:56	Warning: 	Retry after error -4 (Connect Error) at link https://sivaar.com/avicindia/wp-content/uploads/2021/05/footer.jpg (from https://www.avicindia.com/wp-content/uploads/themify-css/concate/2853873207/themify-concate-2832922927.min.css)
+11:57:17	Warning: 	Retry after error -4 (Connect Error) at link https://sivaar.com/avicindia/wp-content/uploads/2021/05/background-1.jpg (from www.avicindia.com/newsmedia/)
+11:57:38	Warning: 	Moved Permanently for www.avicindia.com/?p=67
+11:57:38	Warning: 	File has moved from www.avicindia.com/?p=67 to http://www.avicindia.com/sample-blog/
+11:57:43	Error: 	"Connect Error" (-4) after 2 retries at link https://sivaar.com/avicindia/wp-content/uploads/2021/05/footer.jpg (from https://www.avicindia.com/wp-content/uploads/themify-css/concate/2853873207/themify-concate-2832922927.min.css)
+11:57:43	Error: 	"Connect Error" (-4) after 2 retries at link https://sivaar.com/avicindia/wp-content/uploads/2021/05/background-1.jpg (from www.avicindia.com/newsmedia/)
+11:57:43	Warning: 	Moved Permanently for www.avicindia.com/?p=1
+11:57:43	Warning: 	File has moved from www.avicindia.com/?p=1 to http://www.avicindia.com/hello-world/
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 59 seconds : 172 links scanned, 154 files written (8854421 bytes overall) [8915775 bytes received at 21278 bytes/sec], 69 bytes transferred using HTTP compression in 1 files, ratio 100%, 1.7 requests per connection
+(2 errors, 24 warnings, 0 messages)
